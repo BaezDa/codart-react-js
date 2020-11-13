@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BaezDa/codart-react-js/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/BaezDa/codart-react-js/static/js/main.d9e026fd.chunk.js",
-    "main.js.map": "/BaezDa/codart-react-js/static/js/main.d9e026fd.chunk.js.map",
-    "runtime-main.js": "/BaezDa/codart-react-js/static/js/runtime-main.38fde7d5.js",
-    "runtime-main.js.map": "/BaezDa/codart-react-js/static/js/runtime-main.38fde7d5.js.map",
-    "static/js/2.8ff542b7.chunk.js": "/BaezDa/codart-react-js/static/js/2.8ff542b7.chunk.js",
-    "static/js/2.8ff542b7.chunk.js.map": "/BaezDa/codart-react-js/static/js/2.8ff542b7.chunk.js.map",
-    "index.html": "/BaezDa/codart-react-js/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/BaezDa/codart-react-js/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.8ff542b7.chunk.js.LICENSE.txt": "/BaezDa/codart-react-js/static/js/2.8ff542b7.chunk.js.LICENSE.txt"
+    "main.css": "/codart-react-js/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/codart-react-js/static/js/main.d9e026fd.chunk.js",
+    "main.js.map": "/codart-react-js/static/js/main.d9e026fd.chunk.js.map",
+    "runtime-main.js": "/codart-react-js/static/js/runtime-main.52ef9127.js",
+    "runtime-main.js.map": "/codart-react-js/static/js/runtime-main.52ef9127.js.map",
+    "static/js/2.8ff542b7.chunk.js": "/codart-react-js/static/js/2.8ff542b7.chunk.js",
+    "static/js/2.8ff542b7.chunk.js.map": "/codart-react-js/static/js/2.8ff542b7.chunk.js.map",
+    "index.html": "/codart-react-js/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/codart-react-js/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8ff542b7.chunk.js.LICENSE.txt": "/codart-react-js/static/js/2.8ff542b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.38fde7d5.js",
+    "static/js/runtime-main.52ef9127.js",
     "static/js/2.8ff542b7.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.d9e026fd.chunk.js"
