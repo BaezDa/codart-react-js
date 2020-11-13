@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BaezDa/codart-react-js.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/BaezDa/codart-react-js.git/static/js/main.b7d73c48.chunk.js",
+    "main.js.map": "/BaezDa/codart-react-js.git/static/js/main.b7d73c48.chunk.js.map",
+    "runtime-main.js": "/BaezDa/codart-react-js.git/static/js/runtime-main.142440a0.js",
+    "runtime-main.js.map": "/BaezDa/codart-react-js.git/static/js/runtime-main.142440a0.js.map",
+    "static/js/2.8ff542b7.chunk.js": "/BaezDa/codart-react-js.git/static/js/2.8ff542b7.chunk.js",
+    "static/js/2.8ff542b7.chunk.js.map": "/BaezDa/codart-react-js.git/static/js/2.8ff542b7.chunk.js.map",
+    "index.html": "/BaezDa/codart-react-js.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/BaezDa/codart-react-js.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8ff542b7.chunk.js.LICENSE.txt": "/BaezDa/codart-react-js.git/static/js/2.8ff542b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.142440a0.js",
+    "static/js/2.8ff542b7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b7d73c48.chunk.js"
+  ]
+}
